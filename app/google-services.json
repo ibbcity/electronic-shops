@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624218556068",
+    "project_id": "alphashopproject",
+    "storage_bucket": "alphashopproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624218556068:android:446c94a14b4da29070c831",
+        "android_client_info": {
+          "package_name": "com.example.alphashopproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624218556068-3fhoibu0ndiig46ugeea1bt8lvir6ft3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMhbAsYgHcTcA8PKdpEPMbarJrnw2fAsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624218556068-3fhoibu0ndiig46ugeea1bt8lvir6ft3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

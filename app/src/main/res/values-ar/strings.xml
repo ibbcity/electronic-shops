@@ -1,0 +1,212 @@
+<resources>
+    <string name="app_name">3 store app</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">الضبط</string>
+    <string name="menu_home">الصفحة الرئيسية</string>
+    <string name="menu_orders">الطلبات</string>
+    <string name="menu_Rewards">المكافات</string>
+    <string name="menu_Cart">عربة التسوق</string>
+    <string name="menu_Wishlist">قائمة الرغبات</string>
+    <string name="menu_Account">الحساب</string>
+    <string name="menu_sign_Out">تسجيل الخروج</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">الادوات</string>
+    <string name="menu_share">مشاركة</string>
+    <string name="menu_send">ارسال</string>
+    <string name="city">المدينة*</string>
+    <string name="locality_area_street">المنطقة الحالية او الشارع</string>
+    <string name="flat_number_bulding_name">رقم الشقة,رقم العمارة</string>
+    <string name="pinecode">رمز الكود</string>
+    <string name="state">الحالة*</string>
+    <string name="landmark_optional">المعلم(اختياري)</string>
+    <string name="name">الاسم</string>
+    <string name="mobile_number">رقم الهاتف</string>
+    <string name="alternate_mobile_number_optional">رقم الهاتف المستخدم في الانترة</string>
+    <string name="save">حفظ</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="continues">استمرار</string>
+    <string name="your_order_has_been_confirmed">تم تأكيد طلبك</string>
+    <string name="you_will_shortly_receive_your_order_confirmation_message_and_email">سوف تتلقى قريبا تأكيد طلبك عبر الاميل ورسالة نصية</string>
+    <string name="expected_delivery_between_4_6_days">التسليم المتوقع بين 4-6 ايام</string>
+    <string name="add_a_new_address">اضافة حساب جديد</string>
+    <string name="My_Addresses">عناويني</string>
+    <string name="deliver_here">التسليم بهذا الحساب</string>
+    <string name="verification_code_has_been_sent_to_967_774018414">تم ارسال رمز التحقق الى  +967 774018414</string>
+    <string name="enter_otp">ادخل رمز التحقق</string>
+    <string name="please_wait_it_can_take_upto_60s_120s_to_receive_the_verification_sms">يرجى الانتظار قد بستغرق الأمر الى 60ث-120ث لتلقي رسالة التحقق القصيرة</string>
+    <string name="verify">تحقق</string>
+    <string name="add_to_cart">أضف إلى السلة</string>
+    <string name="buy_now">شراء الان</string>
+    <string name="product_not_found">الصنف غير موجود!</string>
+    <string name="Search_for_product">البحث عن المنتج</string>
+    <string name="user_info">معلومات المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="full_name">الاسم كامل</string>
+    <string name="address">العنوان</string>
+    <string name="pincode">الرقم السري</string>
+    <string name="edit">الاعدادات</string>
+    <string name="remove">حذف</string>
+    <string name="free_2_coupans">مجانية 2 القصائم</string>
+    <string name="offers_applied">العروضات المطبقة</string>
+    <string name="coupans_applied">القصائم المطبقة</string>
+    <string name="apply_your_coupan_here">قم بتطبيق القسائم هنا.</string>
+    <string name="redeem">استرد</string>
+    <string name="remove_item">حذف العنصر</string>
+    <string name="price_details">تقاصيل المنتج</string>
+    <string name="price_2_items">السعر (2 عناصر)</string>
+    <string name="delivery">التسليم</string>
+    <string name="free">مجانا</string>
+    <string name="total_amount">المبلغ الاجمالي</string>
+    <string name="your_coupan">قصائمك</string>
+    <string name="original_price">السعر الاصلي</string>
+    <string name="price_after_coupan_redemption">السعر بعد الخصم *</string>
+    <string name="make_sure_to_apply_the_coupan_in_your_cart">* تأكد من تطبيق القسيمة في سلة التسوق الخاصة بك.</string>
+    <string name="apply">تطبيق</string>
+    <string name="forgot_password">نسيت كلمة المرور </string>
+    <string name="don_t_worry_we_just_need_your_registered_e_mail_address_and_it_s_done">لاتقلق نحن نحتاج الى اعادة عنوان الاميل الخاص بك</string>
+    <string name="enter_your_email_address">ادخل عنوان البريد الاكتروني  :</string>
+    <string name="reset_password">اعادة تعين كلمة المرو</string>
+    <string name="lt_lt_go_back"><![CDATA[<< عد ]]></string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="old_password">كلمة المرور القديمة</string>
+    <string name="new_password">كلمة المرور الجديدة</string>
+    <string name="confirm_new_password">تاكيد كلمة المرور الجديدة</string>
+    <string name="update">تحديث</string>
+    <string name="email_id">البريد الاكتروني </string>
+    <string name="passwords">كلمة المرور</string>
+    <string name="register_here">انشاء حساب</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="enter_your_name">ادخل اسمك :</string>
+    <string name="password_at_least_8_characters">كلمة المرور (على الاقل 8 رموز):</string>
+    <string name="confirm_password">تأكيد كلمة المرور :</string>
+    <string name="sign_up">انشاء حساب</string>
+    <string name="already_forgot_password_have_an_account_sign_in">لدي حساب مسبقاً</string>
+    <string name="change_photo">تغير الصورة</string>
+    <string name="title">العنوان</string>
+    <string name="view_all">عرض الكل</string>
+    <string name="deals_of_the_day">صفقات اليوم!</string>
+    <string name="my_addresses">عنواني</string>
+    <string name="your_ratings">تقيمك</string>
+    <string name="not_signed_in">لم تقم بتسجيل الجخول</string>
+    <string name="email_address">عنوان البريد:</string>
+    <string name="are_you_sure_you_want_to_cancel_the_order">هل انت متأكد من أنك تريد إلغاء الطلب ?</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="your_order_has_been_placed"> تم وضع طلبك.</string>
+    <string name="packed">تعبأة</string>
+    <string name="your_order_has_been_packed"> تم تعبئة طلبك.</string>
+    <string name="shipped">الشحن</string>
+    <string name="your_order_has_been_shipped">تم شحن طلبك.</string>
+    <string name="delivered">التسليم</string>
+    <string name="your_order_has_been_delivered">تم تسليم طلبك.</string>
+    <string name="your_current_order_status">حالة طلبك الحلية</string>
+    <string name="out_for_delivery">خارج التواصل</string>
+    <string name="please_enter_your_current_password_below_to_change_your_password">الرجاء إدخال كلمة المرور الحالية ادناة لتغيير كلمة المرور الخاصة بك</string>
+    <string name="done">فعل</string>
+    <string name="payment_method">طرق الدفع</string>
+    <string name="cash_on_delivery">الدفع عند الاستلام</string>
+    <string name="paytm">دفع</string>
+    <string name="description">الوصف</string>
+    <string name="specification">التخصيصات</string>
+    <string name="other_details">تفاصيل اخرى</string>
+    <string name="product_title">عنوان المنتج</string>
+    <string name="total_ratings">معدل التقيمات</string>
+    <string name="available">متوفرة</string>
+    <string name="check_price_after_coupan_redemption">تحقق من السعر بعد استرداد القسيمة</string>
+    <string name="quantity">الكمية</string>
+    <string name="cancel">إلغاء</string>
+    <string name="ok">أوكة</string>
+    <string name="ratings">التقيمات</string>
+    <string name="_27_ratings">27 تقيماً</string>
+    <string name="discount_coupan">خصم القسيمات</string>
+    <string name="get_20_discount_on_any_product_above_rs_500_and_below_rs_3000">احصل على 20%  خصم على أي منتج أعلاة rs_500_and_below_rs_3000/-</string>
+    <string name="shipping_details">تفاصيل التسوق</string>
+    <string name="change_or_add_a_new_address">تغير او إضافة حساب جديد</string>
+    <string name="just_few_steps_away_from_your_cart">على بعد خطوات قليلة من عربة التسوق الخاص بك.</string>
+    <string name="free_coupan">القسيمات المجانية</string>
+    <string name="_27_ratingss">(27) تقيماً</string>
+    <string name="cash_on_delivery_available">الدفع نقداً عند التسليم متاح</string>
+    <string name="your_recent_orders">طلبك الاخير</string>
+    <string name="notification">التنبيهات</string>
+    <string name="search">بحث</string>
+    <string name="homes">الصفحة الرئيسية</string>
+    <string name="mobiles">الجوالات</string>
+    <string name="elctironics">الاكترونيات</string>
+    <string name="Furnitur">اثاث منزلية</string>
+    <string name="Fashion" >الازياء</string>
+    <string name="Books" >الكتب</string>
+    <string name="Sports" >الرياضة</string>
+    <string name="Toys" >العاب اطفال</string>
+    <string name="Wallarts" >ديكورات</string>
+    <string name="Shoes" >الاحذية</string>
+    <string name="Accessories" >الاكسسوارات</string>
+    <string name="Thank_you_for_rating">Thank you for rating!</string>
+    <string name="added_to_cart_successfully">Added to Cart Successfully!</string>
+    <string name="Removed_Successfully">تمت الازالة بنجاح!</string>
+    <string name="english">انجليزي</string>
+    <string name="arabic">عربي</string>
+    <string name="product_titles">product_title_ar</string>
+    <string name="product_prices">product_price_ar</string>
+    <string name="cutted_prices">cutted_price_ar</string>
+    <string name="free_coupen_titles">free_coupen_title_ar</string>
+    <string name="product_descriptions">product_description_ar</string>
+    <string name="product_other_detailss">product_other_details_ar</string>
+    <string name="spec_titles">spec_title_</string>
+    <string name="ar">_ar</string>
+    <string name="namee">_name_ar</string>
+    <string name="values">_value_ar</string>
+    <string name="average">average_rating_ar</string>
+    <string name="ratingss">)تقيما</string>
+    <string name="free_coupen_body">free_coupen_body_ar</string>
+    <string name="average_rating">average_rating_ar</string>
+    <string name="layout_titlear">layout_title_ar</string>
+    <string name="language">arabic</string>
+    <string name="loading">تحميل...</string>
+    <string-array name="india_states">
+<!--        <item>لحج</item>-->
+<!--        <item>إب</item>-->
+<!--        <item>تعز</item>-->
+<!--        <item>عدن</item>-->
+<!--        <item>صنعاء</item>-->
+<!--        <item>ذمار</item>-->
+<!--        <item>عمران</item>-->
+<!--        <item>الجوف</item>-->
+        <item>Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Lakshadweep</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Orissa</item>
+        <item>Pondicherry</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttaranchal</item>
+        <item>Uttar Pradesh</item>
+        <item>West Bengal</item>
+    </string-array>
+
+</resources>

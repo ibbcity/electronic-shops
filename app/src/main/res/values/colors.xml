@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0071D5</color>
+    <color name="colorPrimaryDark">#61F5F9FA</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="successGreen">#11a10c</color>
+    <color name="recyclerviewBackground">#d6d6d6</color>
+    <color name="coupanPurple">#3606b6</color>
+    <color name="coupanRed">#DF0F56</color>
+    <color name="btnRed">#DF0F56</color>
+    <color name="love">#FF3A24</color>
+
+</resources>
